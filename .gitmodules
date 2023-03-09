@@ -1,0 +1,3 @@
+[submodule "predictive-maintenance-webapp"]
+	path = predictive-maintenance-webapp
+	url = git@github.com:younesidsouguou/predictive-maintenance-webapp.git

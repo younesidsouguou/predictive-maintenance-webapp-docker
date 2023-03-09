@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9efddf3e-85e6-488a-abf4-c60e2dc9f70e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/Excursion Béni Mellal-Bin El Ouidane.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/fonts/NormativePro-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/fonts/lato-v23-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/fonts/lato-v23-latin-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/fonts/lato-v23-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/fonts/lato-v23-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/fonts/lato-v23-latin-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-acid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-critical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-healthy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-pulp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-pump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-recycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-sulfates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/icon-warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/ocp-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/cache/cache.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/callbacks/callback_sidebar_navbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/backup/connectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/backup/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/backup/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/equipments/equipments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/equipments/handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/equipments/pump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/equipments/station.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/extractor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/core/webtag_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/data/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/lab.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/layouts/components_maker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/layouts/layout_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/layouts/layout_sidebar_navbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webapp/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../predictive_maintenance/redis_pub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../predictive_maintenance/sample.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MloeziV2AmJ6ypTiQRKFDGhuVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/firefly/Desktop/pumps-maintenance/predictive-maintenance-webapp-docker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9efddf3e-85e6-488a-abf4-c60e2dc9f70e" name="Changes" comment="" />
+      <created>1678351628401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678351628401</updated>
+      <workItem from="1678351629478" duration="726000" />
+      <workItem from="1678352578131" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
